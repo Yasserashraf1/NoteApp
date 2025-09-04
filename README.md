@@ -210,9 +210,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YasserAshraf1](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Yasserashraf1](https://github.com/Yasserashraf1)
+- LinkedIn: [Yasser Ashraf](https://www.linkedin.com/in/yasserashraf/)
+- Email: yasserashraf@gmail.com
 
 ## 🙏 Acknowledgments
 
