@@ -221,24 +221,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Material Design for UI guidelines
 - Flutter community for helpful resources
 
-## 🐛 Known Issues
-
-- [ ] Add search functionality
-- [ ] Implement note categories
-- [ ] Add export/import features
-- [ ] Dark mode support
-
-## 🔮 Future Enhancements
-
-- [ ] **Search & Filter**: Add search functionality and category filters
-- [ ] **Cloud Sync**: Optional cloud backup and sync
-- [ ] **Rich Text**: Support for formatted text, images, and links
-- [ ] **Dark Mode**: Theme switching capability
-- [ ] **Export Options**: PDF, TXT export functionality
-- [ ] **Reminders**: Set reminders for important notes
-- [ ] **Tags System**: Tag-based organization
-- [ ] **Backup & Restore**: Local backup functionality
-
 ## 📈 Version History
 
 - **v1.0.0** - Initial release with basic CRUD operations
