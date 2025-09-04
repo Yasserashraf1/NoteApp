@@ -17,10 +17,6 @@ A modern, intuitive note-taking application built with Flutter and SQLite. Creat
 - **🛡️ Input Validation**: Form validation to ensure data integrity
 - **🔄 Real-time Updates**: Instant UI refresh after operations
 
-## 📱 Screenshots
-
-> Add screenshots of your app here
-
 ## 🚀 Getting Started
 
 ### Prerequisites
